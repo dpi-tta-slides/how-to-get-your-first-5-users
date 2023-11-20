@@ -247,13 +247,17 @@ If people get value from your product or service, they are more likely to
 
 >I am accepting somebody who is paying full price in order to do this, if you would like me to keep doing this for you, you would have to start paying to match them. Are you comfortable with that?
 
-- If not, no worries. You just gave them free stuff. Remember to ask for that killer review.
+- If not, no worries.
+    - You just gave them free stuff.
+    - Remember to ask for that killer review.
 - Don't think short term, think long term.
+
+---
 
 These free users are super valuable
 1. they're going to leave you reviews
 2. they're going to send you people
-3. they may transition into paying you
+3. they may transition into customers
 <!-- so be nice! -->
 
 ---
