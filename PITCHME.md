@@ -238,6 +238,8 @@ If people get value from your product or service, they are more likely to
 
 - Then keep increasing price
 
+<!-- only limit to price is what market can bear -->
+
 ---
 
 # Script #3
