@@ -14,4 +14,3 @@ This lesson goes over some techniques to talk to users and market your service e
 - Go out and talk to people in your network
 - ACA (acknowledge, compliment, ask)
 - Don't pitch them directly in the ask, ask "Do know anyone who would..."
-
