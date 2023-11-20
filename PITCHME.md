@@ -250,7 +250,7 @@ If people get value from your product or service, they are more likely to
 - If not, no worries.
     - You just gave them free stuff.
     - Remember to ask for that killer review.
-- Don't think short term, think long term.
+- Think long term.
 
 ---
 
