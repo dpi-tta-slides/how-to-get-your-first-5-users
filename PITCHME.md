@@ -338,7 +338,7 @@ These free users are super valuable
 # Breakout groups
 
 - Can you use the ACA (acknowlege, compliment, ask) framework to come up with a script?
-- Please use breakout rooms to work in small groups (3-5 people) and write a script
+- Please work in small groups (3-5 people) and write a script
 - We'll come back as a class and practice pitching each other
 
 ---
