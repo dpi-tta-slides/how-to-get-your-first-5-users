@@ -156,7 +156,7 @@ Ask: "We're cooking up an app for dig management. Got any archaeologist pals who
 
 10. Beauty Product Price Comparison App (Prettiest Price)
 
-Acknowledge: "You always find killer deals on beauty stuff."
+Acknowledge: "You always find great deals on beauty stuff."
 Compliment: "You're the queen of savvy shopping!"
 Ask: "Heard of Prettiest Price? It's for comparing prices. Sounds up your alley, or maybe a friend's?"
 
@@ -182,18 +182,18 @@ Ask: "There's an app for kids' activities and habits. Sounds like something your
 I'm going to do all this stuff for free as long as you promise to do 3 things:
 1. You actually use my service
 2. You give me feedback on it
-3. Leave a killer review (if you think it deserves it)
+3. Leave a great review (if you think it deserves it)
 
 ---
 
 # Why?
 1. It will give you practice
-2. You probably suck
-3. You need to learn how to suck less by lowering barrier to entry*
+2. Your product is probably bad
+3. You need to learn how to make it less bad by *lowering barrier to entry*
 
 These "customers" are not paying you money, but they are paying for your service with their *time* and *feedback*.
 
-*There may be hidden barriers to using your product that you didn't anticipate
+*There may be hidden barriers to using your product that you didn't anticipate*
 
 <!-- fear, uncertainty, etc. -->
 
@@ -249,7 +249,7 @@ If people get value from your product or service, they are more likely to
 
 - If not, no worries.
     - You just gave them free stuff.
-    - Remember to ask for that killer review.
+    - Remember to ask for that great review.
 - Think long term.
 
 ---
