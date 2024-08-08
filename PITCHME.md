@@ -345,4 +345,6 @@ These free users are super valuable
 
 # Resources
 
-[Video](https://www.youtube.com/watch?v=w7g08dVTwaE)
+- [Video](https://www.youtube.com/watch?v=w7g08dVTwaE)
+- [The Real Wolf of Wall Street Sales Script](https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script)
+- [This sales playbook took Salesforce from $25M to $5 billion](https://www.jointhefollowup.com/p/sales-playbook-took-salesforce-25m-5-billion)
