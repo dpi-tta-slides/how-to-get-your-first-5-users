@@ -7,7 +7,7 @@ paginate: true
 _paginate: false
 ---
 
-# How to get first 5 users (and convert them to customers) 5️⃣📲🥳
+# How to get your first 5 users (and convert them to customers) 5️⃣📲🥳
 
 ---
 
