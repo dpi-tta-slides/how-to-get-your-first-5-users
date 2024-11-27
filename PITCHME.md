@@ -88,6 +88,8 @@ _paginate: false
 
 ---
 
+# Ask
+
 > "Do you know anyone who is looking for XYZ? I'm opening up a few slots to do exactly that."
 
 - You're asking them for a favor, not to buy from you. It shouldn't feel weird.
@@ -114,6 +116,7 @@ I'm going to do all this stuff for free as long as you promise to do 3 things:
 ---
 
 # Why?
+
 1. It will give you practice
 2. Your product is probably bad
 3. You need to learn how to make it less bad by *lowering barrier to entry*
@@ -170,6 +173,7 @@ If people get value from your product or service, they are more likely to
 ---
 
 # Script #3
+
 - Go back to your free users
 
 >I am accepting somebody who is paying full price in order to do this, if you would like me to keep doing this for you, you would have to start paying to match them. Are you comfortable with that?
