@@ -1,7 +1,7 @@
 # How to get your first 5 users (and convert them to customers) 5️⃣📲🥳
 This lesson goes over some techniques to talk to users and market your service effectively.
 
-[slides](https://dpi-we.github.io/slides-how-to-get-your-first-5-users)
+[slides](https://dpi-tta-slides.github.io/how-to-get-your-first-5-users)
 
 ## Highlights
 - Create a list of leads
